@@ -6,7 +6,7 @@
         "Description": "下一代小画家(快照版)",
         "Changelog": "修复龙诗P5绘制错误\n降低绝欧P5指路塔的高度",
         "InternalName": "NyaDraw",
-        "AssemblyVersion": "1.0.3.2",
+        "AssemblyVersion": "2024.06.26.01",
         "ApplicableVersion": "any",
         "Tags": [
             "vfx",
