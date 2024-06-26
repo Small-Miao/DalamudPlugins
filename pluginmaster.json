@@ -14,37 +14,13 @@
             "spl"
         ],
         "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
-        "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Small-Miao/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
+        "DownloadLinkInstall": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1719386425"
-    },
-    {
-        "Author": "Small_Miao, NiGuangOwO (moewcorp)",
-        "Name": "NyaDraw(beta)",
-        "Punchline": "下一代小画家",
-        "Description": "下一代小画家",
-        "Changelog": "修复龙诗P5绘制错误\n降低绝欧P5指路塔的高度",
-        "InternalName": "NyaDraw",
-        "AssemblyVersion": "1.0.3.2",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "vfx",
-            "omen",
-            "spl"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
-        "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1719317448"
     }
 ]
