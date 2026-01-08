@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "NiGuangOwO / Small_Miao",
+        "Name": "NyaDraw (猫队特供)",
+        "Punchline": "下一代小画家",
+        "Description": "有黄圈你躲不躲",
+        "Tags": [
+            "vfx",
+            "omen",
+            "spl"
+        ],
+        "InternalName": "NyaDraw",
+        "Changelog": "- M10S 绘图完善",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/small-miao/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
+        "DownloadLinkInstall": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1767851984"
+    }
+]
