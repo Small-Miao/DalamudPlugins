@@ -18,6 +18,25 @@
         "DownloadLinkInstall": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaDraw/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1767851984"
+        "LastUpdate": "1767852311"
+    },
+    {
+        "Author": "Small_Miao",
+        "Name": "NyaTools",
+        "Punchline": "猫猫工具箱 开发小助手",
+        "Description": "画家工具",
+        "Tags": [
+            "sample",
+            "plugin",
+            "goats"
+        ],
+        "InternalName": "NyaTools",
+        "AssemblyVersion": "0.0.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaTools/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Small-Miao/DalamudPlugins/raw/main/plugins/NyaTools/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1767852311"
     }
 ]
